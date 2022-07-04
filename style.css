@@ -19,7 +19,7 @@ h1{
 span{
     color: orange;
 }
-section{
+.partision{
 display: flex;
 margin-bottom: 110px;
 }
@@ -41,10 +41,38 @@ margin-bottom: 110px;
 }
 .half-width-notes{
     margin-right: 50px;
-    text-align: 
+    text-align:justify; 
 }
 
 .dream-big-notes{
     margin-right: 130px;
     text-align: justify;
+}
+.last-part{
+    width: 50%;
+    padding-left: 50px;
+    padding-left: 50px;
+    padding-top: 30px;
+    padding-bottom: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    box-shadow: 10px 10px 40px grey;
+    border-left: 07px solid red;
+
+}
+.second-height{
+    font-family: 'Trispace', sans-serif;
+    font-size: 40px;
+}
+.final-part{
+    border-left: 07px solid blue;
+    padding-right: 10px;
+}
+.expriences{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+footer p{
+    text-align: center;
+    font-family: 'Trispace', sans-serif;
 }
